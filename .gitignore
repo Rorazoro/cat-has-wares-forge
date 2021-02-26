@@ -11,5 +11,9 @@
 !/gradle.properties
 !.gitattributes
 !ASSETS_LICENSE.txt
+!/CHANGELOG.md
+!/models/
+!/.vscode/
+!/TODO.md
 
 src/generated/resources/\.cache/
