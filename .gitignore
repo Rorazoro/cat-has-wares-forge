@@ -15,5 +15,6 @@
 !/models/
 !/.vscode/
 !/TODO.md
+!/images/
 
 src/generated/resources/\.cache/
