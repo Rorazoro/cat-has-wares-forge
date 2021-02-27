@@ -1,4 +1,4 @@
-# Cat has Wares
+# Cat Has Wares
 
 <!-- ![Merchant Stands](https://gitlab.com/rorazoro/cat-has-wares/-/blob/master/images/merchantstands1.png) -->
 ![Merchant Stands](images/merchantstands1.png)
