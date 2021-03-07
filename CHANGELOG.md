@@ -4,6 +4,10 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+---
+
+## [1.0.0]
+
 ### Changed
 - lock uv on rotation
 
@@ -26,4 +30,5 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 <!-- Versions -->
 [Unreleased]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.0-alpha...HEAD
+[1.0.0]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.0...HEAD
 [1.0.0-alpha]: https://gitlab.com/rorazoro/cat-has-wares/-/releases/v1.0.0-alpha
