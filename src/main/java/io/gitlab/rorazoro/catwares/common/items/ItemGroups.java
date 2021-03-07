@@ -9,7 +9,7 @@ import net.minecraft.item.ItemStack;
 
 public class ItemGroups {
     public static final ItemGroup MOD_ITEM_GROUP = new ModItemGroup(ModConstants.MODID,
-            () -> new ItemStack(ItemRegistry.MERCHANT_STAND_BLOCK.get()));
+            () -> new ItemStack(ItemRegistry.OAK_PLANKS_MERCHANT_STAND_BLOCK.get()));
 
     private ItemGroups() {
         throw new IllegalStateException("Utility class");

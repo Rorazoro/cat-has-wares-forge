@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "#C#", "#I#"],
+  "key": {
+    "#": {
+      "item": "minecraft:warped_planks"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "I": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "item": "catwares:warped_planks_merchant_stand",
+    "count": 1
+  }
+}

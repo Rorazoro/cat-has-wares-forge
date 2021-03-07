@@ -3,7 +3,7 @@
   "pattern": ["###", "#C#", "#I#"],
   "key": {
     "#": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:oak_planks"
     },
     "C": {
       "item": "minecraft:chest"
@@ -13,7 +13,7 @@
     }
   },
   "result": {
-    "item": "catwares:merchant_stand",
+    "item": "catwares:oak_planks_merchant_stand",
     "count": 1
   }
 }

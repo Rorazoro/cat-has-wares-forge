@@ -99,8 +99,9 @@ public class MerchantStandContainer extends Container {
 
     @Override
     public boolean canInteractWith(PlayerEntity playerIn) {
-        return isWithinUsableDistance(canInteractWithCallable, playerIn, BlockRegistry.MERCHANT_STAND_BLOCK.get());
-        // return this.inventory.isUsableByPlayer(playerIn);
+        // return isWithinUsableDistance(canInteractWithCallable, playerIn,
+        // BlockRegistry.MERCHANT_STAND_BLOCK.get());
+        return this.tileEntity.isUsableByPlayer(playerIn);
     }
 
     private static MerchantStandTileEntity getTileEntity(final PlayerInventory playerInventory,

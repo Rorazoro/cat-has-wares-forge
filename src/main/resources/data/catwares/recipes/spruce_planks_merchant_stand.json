@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "#C#", "#I#"],
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_planks"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "I": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "item": "catwares:spruce_planks_merchant_stand",
+    "count": 1
+  }
+}

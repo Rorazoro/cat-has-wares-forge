@@ -1,8 +1,0 @@
-{
-  "variants": {
-    "facing=north": { "model": "catwares:block/merchant_stand" },
-    "facing=south": { "model": "catwares:block/merchant_stand", "y": 180 },
-    "facing=west": { "model": "catwares:block/merchant_stand", "y": 270 },
-    "facing=east": { "model": "catwares:block/merchant_stand", "y": 90 }
-  }
-}

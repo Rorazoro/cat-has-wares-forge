@@ -4,7 +4,11 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ## [Unreleased]
 
+### Changed
+- lock uv on rotation
 
+### Added
+- Different wood variants for the merchant stands
 
 ---
 

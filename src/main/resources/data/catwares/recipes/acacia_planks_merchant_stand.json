@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["###", "#C#", "#I#"],
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_planks"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    },
+    "I": {
+      "item": "minecraft:item_frame"
+    }
+  },
+  "result": {
+    "item": "catwares:acacia_planks_merchant_stand",
+    "count": 1
+  }
+}

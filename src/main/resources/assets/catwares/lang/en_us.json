@@ -1,9 +1,23 @@
 {
   "itemGroup.catwares": "Cat Has Wares",
 
-  "block.catwares.merchant_stand": "Merchant Stand",
+  "block.catwares.oak_planks_merchant_stand": "Oak Planks Merchant Stand",
+  "block.catwares.spruce_planks_merchant_stand": "Spruce Planks Merchant Stand",
+  "block.catwares.birch_planks_merchant_stand": "Birch Planks Merchant Stand",
+  "block.catwares.jungle_planks_merchant_stand": "Jungle Planks Merchant Stand",
+  "block.catwares.acacia_planks_merchant_stand": "Acacia Planks Merchant Stand",
+  "block.catwares.dark_oak_planks_merchant_stand": "Dark Oak Planks Merchant Stand",
+  "block.catwares.crimson_planks_merchant_stand": "Crimson Planks Merchant Stand",
+  "block.catwares.warped_planks_merchant_stand": "Warped Planks Merchant Stand",
 
-  "item.catwares.merchant_stand": "Merchant Stand",
+  "item.catwares.oak_planks_merchant_stand": "Oak Planks Merchant Stand",
+  "item.catwares.spruce_planks_merchant_stand": "Spruce Planks Merchant Stand",
+  "item.catwares.birch_planks_merchant_stand": "Birch Planks Merchant Stand",
+  "item.catwares.jungle_planks_merchant_stand": "Jungle Planks Merchant Stand",
+  "item.catwares.acacia_planks_merchant_stand": "Acacia Planks Merchant Stand",
+  "item.catwares.dark_oak_planks_merchant_stand": "Dark Oak Planks Merchant Stand",
+  "item.catwares.crimson_planks_merchant_stand": "Crimson Planks Merchant Stand",
+  "item.catwares.warped_planks_merchant_stand": "Warped Planks Merchant Stand",
 
   "container.merchant_stand": "Merchant Stand"
 }

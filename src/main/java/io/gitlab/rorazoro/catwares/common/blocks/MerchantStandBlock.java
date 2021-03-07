@@ -3,6 +3,7 @@ package io.gitlab.rorazoro.catwares.common.blocks;
 import java.util.UUID;
 import java.util.stream.Stream;
 
+import io.gitlab.rorazoro.catwares.common.registries.BlockRegistry;
 import io.gitlab.rorazoro.catwares.common.registries.TileEntityRegistry;
 import io.gitlab.rorazoro.catwares.common.tileentities.MerchantStandTileEntity;
 import net.minecraft.block.Block;
