@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 
 ---
 
+## [1.0.1]
+
+### Fixed
+- Bug #1: No File/Mod Info Failure
+
+### Changed
+- Mod license info
+- Forge version compatibility for 34 - 36
+- Minecraft version compatibility for 1.16.3 - 1.16.5
+
 ## [1.0.0]
 
 ### Changed
