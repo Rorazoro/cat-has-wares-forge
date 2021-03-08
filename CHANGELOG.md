@@ -39,6 +39,7 @@ The format is based on [Keep a Changelog][Keep a Changelog] and this project adh
 [Semantic Versioning]: https://semver.org/
 
 <!-- Versions -->
-[Unreleased]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.0-alpha...HEAD
-[1.0.0]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.0...HEAD
+[Unreleased]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.1...HEAD
+[1.0.1]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.0...v1.0.1
+[1.0.0]: https://gitlab.com/rorazoro/cat-has-wares/-/compare/v1.0.0-alpha...v1.0.0
 [1.0.0-alpha]: https://gitlab.com/rorazoro/cat-has-wares/-/releases/v1.0.0-alpha
